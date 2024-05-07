@@ -48,8 +48,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:MANOJ KUMAR S
-RegisterNumber:212223240082
+Developed by: HARISHKUMAR R
+RegisterNumber:212223230073
 */
 ```
 ```
@@ -75,12 +75,14 @@ module EXP_6(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using â€
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/Mkumar262006/SR-FLIPFLOP-USING-CASE/assets/147139472/a66ce3b8-8911-4b79-a956-3f1415eecc54)
+![image](https://github.com/harissunique/SR-FLIPFLOP-USING-CASE/assets/147139338/8fe15498-393b-4dc5-a7e3-1bb966bd614b)
+
 
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/Mkumar262006/SR-FLIPFLOP-USING-CASE/assets/147139472/98c89f00-bb20-41c1-83ed-6f31d5a6ac93)
+![image](https://github.com/harissunique/SR-FLIPFLOP-USING-CASE/assets/147139338/da625c94-a4c4-4226-b4ab-4c4e194985d1)
+
 
 **RESULTS**
 
